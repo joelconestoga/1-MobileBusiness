@@ -15,3 +15,4 @@ Highlights
 * Loader
 * Mobile Gesture - Swipe to navigate between pages
 * Admin Mode - login to upload new Images/Posts on Message Board
+* C# - Serialized Object Persistence
